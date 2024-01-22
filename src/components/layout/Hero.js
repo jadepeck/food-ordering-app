@@ -11,12 +11,16 @@ export default function Hero() {
           </h1>
         <p className="mt-4">
 
-          Pizza is the missing piece that makes every day complete, a simple yet a delicious joy in lifess
+          Pizza is the missing piece that makes every day complete, a simple yet a delicious joy in life
 
         </p>
        <div>
-         <button>Order now</button>
-         <button>Learn more</button>
+         <button className='bg-primary text-white'>
+          Order now
+         </button>
+         <button>
+          Learn more
+         </button>
        </div>
       </div>
       <div className="relative">
