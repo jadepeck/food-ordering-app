@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Right from "@/components/icons/Right"
 
 export default function Hero() {
   return (
@@ -14,9 +15,10 @@ export default function Hero() {
           Pizza is the missing piece that makes every day complete, a simple yet a delicious joy in life
 
         </p>
-       <div>
-         <button className='bg-primary text-white'>
+       <div className='flex gap-4'>
+         <button className='bg-primary text-white px-8 py-2 rounded-full'>
           Order now
+          <Right/>
          </button>
          <button>
           Learn more
