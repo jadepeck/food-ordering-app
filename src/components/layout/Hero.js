@@ -3,8 +3,8 @@ import Right from "@/components/icons/Right"
 
 export default function Hero() {
   return (
-    <section className="grid grid-cols-2">
-      <div className='py-4'>
+    <section className="hero">
+      <div className='py-12'>
         <h1 className="text-4xl font-semibold">
 
           Everything is better with a Pizza
