@@ -7,7 +7,9 @@ export default function Hero() {
       <div className='py-12'>
         <h1 className="text-4xl font-semibold">
 
-          Everything is better with a&nbsp;
+          Everything<br />
+          is better<br />
+          with a&nbsp;
            <span className='text-primary'>
              Pizza
           </span>
