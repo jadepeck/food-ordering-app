@@ -15,7 +15,7 @@ export default function Hero() {
           </span>
 
           </h1>
-        <p className="my-4 text-gray-500 text-sm">
+        <p className="my-6 text-gray-500 text-sm">
 
           Pizza is the missing piece that makes every day complete, a simple yet a delicious joy in life
 
