@@ -8,7 +8,7 @@ export default function HomeMenu() {
       </div>
       <div className="text-center">
         <h3 className="uppercase text-grap-600 font-semibold leading-4">Check out</h3>
-        <h2 className="text-primary font-bold text-4xl italic">Menu</h2>
+        <h2 className="text-primary font-bold text-4xl italic">Menu3</h2>
       </div>
     </section>
   );
